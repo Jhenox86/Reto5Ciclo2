@@ -1,0 +1,10 @@
+ModeloVo\ComprasProveedorVo.class
+ModeloDao\ListaLiderDao.class
+Vista\Reto5.class
+ModeloDao\ProyectosDao.class
+Vista\ReportesView.class
+Util\JDBCUtilities.class
+ModeloDao\ComprasProveedorDao.class
+ModeloVo\ListaLiderVo.class
+ModeloVo\ProyectosVo.class
+Controlador\ReportesController.class
