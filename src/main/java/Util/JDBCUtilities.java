@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class JDBCUtilities {
     // Atributos de clase para gestión de conexión con la base de datos
 
-    private static final String UBICACION_BD = "C:\\Users\\Jheno3\\Desktop\\Mision tic 2022\\grupo 18\\Grupo 18 Anamaria tamayo\\Ciclo2\\Semana 5\\ProyectosConstruccion.db";
+    private static final String UBICACION_BD = "C:\\Users\\Jheno3\\Documents\\NetBeansProjects\\Reto5Ciclo2\\ProyectosConstruccion.db";
 
     public static Connection getConnection() throws SQLException {
         String url = "jdbc:sqlite:" + UBICACION_BD;
